@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Accessing Array elements using different loops/1.0.0": {
+        "runtime": {
+          "Accessing Array elements using different loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accessing Array elements using different loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
