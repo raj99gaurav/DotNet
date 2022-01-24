@@ -1,0 +1,7 @@
+D:\Study\DSA\gfg\Arrays\Multi D array\MultiDArray\MultiDArray\bin\Debug\MultiDArray.exe.config
+D:\Study\DSA\gfg\Arrays\Multi D array\MultiDArray\MultiDArray\bin\Debug\MultiDArray.exe
+D:\Study\DSA\gfg\Arrays\Multi D array\MultiDArray\MultiDArray\bin\Debug\MultiDArray.pdb
+D:\Study\DSA\gfg\Arrays\Multi D array\MultiDArray\MultiDArray\obj\Debug\MultiDArray.csproj.AssemblyReference.cache
+D:\Study\DSA\gfg\Arrays\Multi D array\MultiDArray\MultiDArray\obj\Debug\MultiDArray.csproj.CoreCompileInputs.cache
+D:\Study\DSA\gfg\Arrays\Multi D array\MultiDArray\MultiDArray\obj\Debug\MultiDArray.exe
+D:\Study\DSA\gfg\Arrays\Multi D array\MultiDArray\MultiDArray\obj\Debug\MultiDArray.pdb
