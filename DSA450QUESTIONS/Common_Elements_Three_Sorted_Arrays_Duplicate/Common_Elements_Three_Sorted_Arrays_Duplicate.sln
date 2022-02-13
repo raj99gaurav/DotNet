@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common_Elements_Three_Sorted_Arrays_Duplicate", "Common_Elements_Three_Sorted_Arrays_Duplicate\Common_Elements_Three_Sorted_Arrays_Duplicate.csproj", "{3FDA9AAB-1BBB-4191-9455-5DAF6F2FF3F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FDA9AAB-1BBB-4191-9455-5DAF6F2FF3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDA9AAB-1BBB-4191-9455-5DAF6F2FF3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDA9AAB-1BBB-4191-9455-5DAF6F2FF3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDA9AAB-1BBB-4191-9455-5DAF6F2FF3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79A532A7-08DC-4C41-AABD-3BCDD1E3B6E6}
+	EndGlobalSection
+EndGlobal
